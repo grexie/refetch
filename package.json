@@ -2,7 +2,7 @@
   "name": "@grexie/refetch",
   "version": "0.1.0",
   "license": "MIT",
-  "repository": "github:grexie/compose",
+  "repository": "github:grexie/refetch",
   "main": "lib/cjs/index.js",
   "module": "lib/esm/index.js",
   "types": "lib/esm/index.d.ts",
