@@ -21,7 +21,7 @@
     "typescript": "^4.6.2"
   },
   "dependencies": {
-    "@grexie/compose": "^0.1.4",
+    "@grexie/compose": "^0.1.6",
     "events": "^3.3.0"
   }
 }

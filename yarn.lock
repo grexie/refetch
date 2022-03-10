@@ -2,10 +2,10 @@
 # yarn lockfile v1
 
 
-"@grexie/compose@^0.1.4":
-  version "0.1.4"
-  resolved "https://registry.yarnpkg.com/@grexie/compose/-/compose-0.1.4.tgz#72668d4e34927ff80272263533d062151f764aa0"
-  integrity sha512-gRGpYlVIVnRGMXfgmd28WQT9fsr4Rq5cqYSgC0CISANbJ9TgpFtNEKNY5VtlU+7ucVXkWjapR9HQvf2+RJrxIA==
+"@grexie/compose@^0.1.6":
+  version "0.1.6"
+  resolved "https://registry.yarnpkg.com/@grexie/compose/-/compose-0.1.6.tgz#d83edeee901ca136d3033505049ca1faaa106a3d"
+  integrity sha512-quTPgSEeQP+DP7Sf7ba+Iw4jGvNWHHIpSD/LX/CyJ6sWyqqs4Il9l/Ny9W1sNGqhsFYWZZkA228ZjpX+Yo/4UA==
 
 "@types/events@^3.0.0":
   version "3.0.0"
