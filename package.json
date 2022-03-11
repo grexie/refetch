@@ -12,16 +12,16 @@
     "build:cjs": "tsc --module commonjs --outDir lib/cjs --declaration false"
   },
   "peerDependencies": {
-    "react": "^16.8.0"
+    "react": ">=16.8.0"
   },
   "devDependencies": {
     "@types/events": "^3.0.0",
-    "@types/react": "^16.8.0",
-    "react": "^16.8.0",
+    "@types/react": ">=16.8.0",
+    "react": ">=16.8.0",
     "typescript": "^4.6.2"
   },
   "dependencies": {
-    "@grexie/compose": "^0.1.6",
-    "events": "^3.3.0"
+    "@grexie/compose": ">=0.1.7",
+    "events": ">=3.3.0"
   }
 }
